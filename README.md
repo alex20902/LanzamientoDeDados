@@ -1,5 +1,5 @@
-# LanzamientoDeDados en el programa de Visual Studio code con python.
-Actividad de la materia de simulacion.
+# LanzamientoDeDados.
+Actividad de la materia de simulacion en lanzamiento de dados en el programa de Visual Studio code con python.
 
 Nombre del alumno: Hugo Alexander Vazquez Montejo.
 
